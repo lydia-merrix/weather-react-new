@@ -1,10 +1,10 @@
 import React from "react";
-import axios from `axios`;
+//import axios from `axios`;
 import "./Weather.css";
 
 export default function Weather() {
   let WeatherData = {
-    city: "ORlando",
+    city: "Orlando",
     temperature: 19,
     date: "Tuesday 12:00",
     description: "partly cloudy",
